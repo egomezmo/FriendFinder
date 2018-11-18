@@ -1,32 +1,31 @@
 var tableArray = [
     {
-        "name": "One",
-        "photo": "https://gdb.voanews.com/065450E0-418B-4EC1-88E8-B4C6311016D3_w1023_r1_s.jpg",
+        "name": "Person One",
+        "photo": "https://images-na.ssl-images-amazon.com/images/I/519l0coPr5L._SL1000_.jpg",
         "scores": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
 
     },
     {
-        "name": "Two",
-        "photo": "https://gdb.voanews.com/065450E0-418B-4EC1-88E8-B4C6311016D3_w1023_r1_s.jpg",
+        "name": "Person Two",
+        "photo": "https://images-na.ssl-images-amazon.com/images/I/51XbKLce2-L.jpg",
         "scores": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
     },
     {
-        "name": "Three",
+        "name": "Person Three",
         "photo": "https://gdb.voanews.com/065450E0-418B-4EC1-88E8-B4C6311016D3_w1023_r1_s.jpg",
         "scores": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
     },
     {
-        "name": "Four",
-        "photo": "https://gdb.voanews.com/065450E0-418B-4EC1-88E8-B4C6311016D3_w1023_r1_s.jpg",
+        "name": "Person Four",
+        "photo": "https://fr.wikipedia.org/wiki/Fichier:Dogs_like_cucumbers_%26_cucumbers_like_dogs.jpg",
         "scores": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
     },
     {
-        "name": "Five",
-        "photo": "https://gdb.voanews.com/065450E0-418B-4EC1-88E8-B4C6311016D3_w1023_r1_s.jpg",
+        "name": "Person Five",
+        "photo": "https://ko.wikipedia.org/wiki/파일:Do_i_look_funny_or_something.jpg",
         "scores": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     }
 ];
-
 
 
 

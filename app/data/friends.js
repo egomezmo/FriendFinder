@@ -12,7 +12,7 @@ var tableArray = [
     },
     {
         "name": "Person Three",
-        "photo": "https://gdb.voanews.com/065450E0-418B-4EC1-88E8-B4C6311016D3_w1023_r1_s.jpg",
+        "photo": "https://www.365imagenesbonitas.com/wp-content/uploads/2014/07/todo-es-posible.jpg",
         "scores": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
     },
     {
@@ -26,7 +26,5 @@ var tableArray = [
         "scores": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     }
 ];
-
-
 
 module.exports = tableArray;
